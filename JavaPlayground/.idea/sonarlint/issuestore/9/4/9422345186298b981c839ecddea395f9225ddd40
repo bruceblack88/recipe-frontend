@@ -1,0 +1,54 @@
+
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(ÜÀóúÿÿÿÿ
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(øíÍÄùÿÿÿÿ
+Z
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(ï’áõ
+Z
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(Ãáêß
+_
+java:S1120"DMake this line start after 8 spaces to indent the code consistently.(í¢¨×ıÿÿÿÿ
+_
+java:S1120 "DMake this line start after 8 spaces to indent the code consistently.(Ä—ş˜ÿÿÿÿÿ
+Z
+java:S1120#"DMake this line start after 8 spaces to indent the code consistently.(ÛşĞä
+Z
+java:S1120."DMake this line start after 4 spaces to indent the code consistently.(æèÛÔ
+g	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(½¢Ï¿
+^
+java:S1941"CMove the declaration of "sentence" closer to the code that uses it.(øíÍÄùÿÿÿÿ
+Q
+java:S6212"/Declare this local variable with "var" instead.(øíÍÄùÿÿÿÿ8Ôê¼±õ/
+J
+java:S6212"/Declare this local variable with "var" instead.(˜à¨ëÿÿÿÿÿ
+G
+java:S1108"1Move this "else" keyword to a new dedicated line.(½¢Ï¿
+G
+java:S1108""1Move this "else" keyword to a new dedicated line.(å¥‡
+E
+java:S6212."/Declare this local variable with "var" instead.(æèÛÔ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(«ïÅ•ıÿÿÿÿ
+7
+java:S1643"Use a StringBuilder instead.(í¢¨×ıÿÿÿÿ
+7
+java:S1643 "Use a StringBuilder instead.(Ä—ş˜ÿÿÿÿÿ
+2
+java:S1643#"Use a StringBuilder instead.(ÛşĞä
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì¼Îí
+V
+java:S1106"AMove this left curly brace to the beginning of next line of code.(”È´(
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÜÀóúÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ë’òøûÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(˜à¨ëÿÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ãáêß
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(½¢Ï¿
+W
+java:S1106""AMove this left curly brace to the beginning of next line of code.(å¥‡
+W
+java:S1106,"AMove this left curly brace to the beginning of next line of code.(Çµí‘

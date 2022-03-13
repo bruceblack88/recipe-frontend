@@ -1,0 +1,40 @@
+
+f
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(½Ô§àùÿÿÿÿ8ºôæ÷/
+f
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(Ï¼·ºıÿÿÿÿ8ºôæ÷/
+f
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(£Œä¾şÿÿÿÿ8ºôæ÷/
+f
+java:S1120"DMake this line start after 8 spaces to indent the code consistently.(ÅĞïŞüÿÿÿÿ8ºôæ÷/
+a
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(Î©ëÜ8ºôæ÷/
+o	java:S109	"SAssign this magic number 15 to a well-named constant, and use the constant instead.(¢µëİ8ºôæ÷/
+t	java:S109"SAssign this magic number 15 to a well-named constant, and use the constant instead.(…ˆºØøÿÿÿÿ8ºôæ÷/
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÅÙÒ¨ıÿÿÿÿ8Áôæ÷/
+^
+java:S1854"<Remove this useless assignment to local variable "flatRoad".(Ï¼·ºıÿÿÿÿ8Âôæ÷/
+_
+java:S1854"=Remove this useless assignment to local variable "bumpCount".(ÅĞïŞüÿÿÿÿ8Ãôæ÷/
+Q
+java:S6212"/Declare this local variable with "var" instead.(Ï¼·ºıÿÿÿÿ8Äôæ÷/
+O
+java:S1481"-Remove this unused "flatRoad" local variable.(Ï¼·ºıÿÿÿÿ8Åôæ÷/
+Q
+java:S6212"/Declare this local variable with "var" instead.(¬ãÙ»ûÿÿÿÿ8Åôæ÷/
+L
+java:S6212"/Declare this local variable with "var" instead.(ìÇ8Åôæ÷/
+R
+java:S1751"6Remove this "return" statement or make it conditional.(Æ‡Áh8Çôæ÷/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”šÁR
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÅÙÒ¨ıÿÿÿÿ8Éôæ÷/
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(½Ô§àùÿÿÿÿ8Éôæ÷/
+^
+java:S1106	"AMove this left curly brace to the beginning of next line of code.(¢µëİ8Éôæ÷/
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(£Œä¾şÿÿÿÿ8Éôæ÷/
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(…ˆºØøÿÿÿÿ8Éôæ÷/

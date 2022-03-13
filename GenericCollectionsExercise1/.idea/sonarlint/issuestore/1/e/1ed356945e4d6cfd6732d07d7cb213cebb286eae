@@ -1,0 +1,147 @@
+
+Z
+java:S1105'"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ
+Z
+java:S1105*"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ
+Z
+java:S11054"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ
+Z
+java:S11057"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ
+Z
+java:S1105A"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ
+Z
+java:S1105V"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ
+Z
+java:S1105`"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Ä¾§éúÿÿÿÿ
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ƒ† º
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(û›˜şÿÿÿÿ
+Z
+java:S1120&"DMake this line start after 4 spaces to indent the code consistently.(ö˜§´
+Z
+java:S1120("DMake this line start after 6 spaces to indent the code consistently.(ñ³ãò
+Z
+java:S1120+"DMake this line start after 6 spaces to indent the code consistently.(¢şÔŞ
+Z
+java:S11203"DMake this line start after 4 spaces to indent the code consistently.(ö˜§´
+Z
+java:S11205"DMake this line start after 6 spaces to indent the code consistently.(ñ³ãò
+_
+java:S11208"DMake this line start after 6 spaces to indent the code consistently.(ªƒ¡ƒşÿÿÿÿ
+_
+java:S1120@"DMake this line start after 4 spaces to indent the code consistently.(”Ëç‹üÿÿÿÿ
+_
+java:S1120B"DMake this line start after 6 spaces to indent the code consistently.(ôˆœÜûÿÿÿÿ
+Z
+java:S1120I"DMake this line start after 6 spaces to indent the code consistently.(³Ç¸ä
+Z
+java:S1120K"DMake this line start after 6 spaces to indent the code consistently.(ó÷æÿ
+_
+java:S1120U"DMake this line start after 4 spaces to indent the code consistently.(”Ëç‹üÿÿÿÿ
+_
+java:S1120W"DMake this line start after 6 spaces to indent the code consistently.(ôˆœÜûÿÿÿÿ
+Z
+java:S1120^"DMake this line start after 6 spaces to indent the code consistently.(³Ç¸ä
+_
+java:S1120b"DMake this line start after 6 spaces to indent the code consistently.(Áû‘øÿÿÿÿ
+Z
+java:S1120f"DMake this line start after 8 spaces to indent the code consistently.(‚Ì©
+Z
+java:S1120v"DMake this line start after 4 spaces to indent the code consistently.(Ò×ÁÙ
+Y
+java:S1120}"DMake this line start after 4 spaces to indent the code consistently.(úÅ×5
+Z
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(ü†ò 
+`
+java:S1120Œ"DMake this line start after 6 spaces to indent the code consistently.(Æ®£øøÿÿÿÿ
+`
+java:S1120˜"DMake this line start after 4 spaces to indent the code consistently.(¶á×éşÿÿÿÿ
+`
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¼«¯˜üÿÿÿÿ
+[
+java:S1120Ÿ"DMake this line start after 6 spaces to indent the code consistently.(¥¹ï
+[
+java:S1120£"DMake this line start after 6 spaces to indent the code consistently.(äÚùî
+P	java:S139"6Move this trailing comment on the previous empty line.(ËÖÆûÿÿÿÿ
+L
+java:S1108)"1Move this "else" keyword to a new dedicated line.(È¨åÉùÿÿÿÿ
+K	java:S139&"6Move this trailing comment on the previous empty line.(ö˜§´
+P	java:S139)"6Move this trailing comment on the previous empty line.(È¨åÉùÿÿÿÿ
+G
+java:S11086"1Move this "else" keyword to a new dedicated line.(õÉÈ»
+K	java:S1393"6Move this trailing comment on the previous empty line.(ö˜§´
+K	java:S1396"6Move this trailing comment on the previous empty line.(õÉÈ»
+P	java:S139@"6Move this trailing comment on the previous empty line.(”Ëç‹üÿÿÿÿ
+Z
+java:S1162B"?Remove the usage of the checked exception 'EmptyListException'.(ôˆœÜûÿÿÿÿ
+E
+java:S6212E"/Declare this local variable with "var" instead.(ä„ÄÇ
+G
+java:S1108J"1Move this "else" keyword to a new dedicated line.(å¥‡
+K	java:S139E"6Move this trailing comment on the previous empty line.(ä„ÄÇ
+J	java:S139N"6Move this trailing comment on the previous empty line.(«‡ÅM
+K	java:S139P"6Move this trailing comment on the previous empty line.(ºÍÎ¶
+P	java:S139U"6Move this trailing comment on the previous empty line.(”Ëç‹üÿÿÿÿ
+Z
+java:S1162W"?Remove the usage of the checked exception 'EmptyListException'.(ôˆœÜûÿÿÿÿ
+J
+java:S6212Z"/Declare this local variable with "var" instead.(¬©šªøÿÿÿÿ
+L
+java:S1108_"1Move this "else" keyword to a new dedicated line.(ëÑ±ëøÿÿÿÿ
+P	java:S139Z"6Move this trailing comment on the previous empty line.(¬©šªøÿÿÿÿ
+P	java:S139_"6Move this trailing comment on the previous empty line.(ëÑ±ëøÿÿÿÿ
+K	java:S139i"6Move this trailing comment on the previous empty line.(‹œ¤
+J	java:S139o"6Move this trailing comment on the previous empty line.(«‡ÅM
+K	java:S139v"6Move this trailing comment on the previous empty line.(Ò×ÁÙ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ü†ò 
+O	java:S106…"9Replace this use of System.out or System.err by a logger.(ïÊô×
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(Æ®£øøÿÿÿÿ
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+L	java:S139ª"6Move this trailing comment on the previous empty line.(–Ş–µ
+o
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ³ãò
+o
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢şÔŞ
+o
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ³ãò
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(©ä”ä
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ä§±œşÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‚ĞŒ„
+\
+java:S1106$"AMove this left curly brace to the beginning of next line of code.(•‘íƒüÿÿÿÿ
+\
+java:S11061"AMove this left curly brace to the beginning of next line of code.(äÆÿÿÿÿÿ
+\
+java:S1106>"AMove this left curly brace to the beginning of next line of code.(‹º§ˆøÿÿÿÿ
+\
+java:S1106H"AMove this left curly brace to the beginning of next line of code.(Œ¦»íüÿÿÿÿ
+W
+java:S1106J"AMove this left curly brace to the beginning of next line of code.(å¥‡
+\
+java:S1106S"AMove this left curly brace to the beginning of next line of code.(£áÜøÿÿÿÿ
+\
+java:S1106]"AMove this left curly brace to the beginning of next line of code.(Œ¦»íüÿÿÿÿ
+V
+java:S1106e"AMove this left curly brace to the beginning of next line of code.(ãÃÍt
+W
+java:S1106t"AMove this left curly brace to the beginning of next line of code.(ûÄ•
+\
+java:S1106{"AMove this left curly brace to the beginning of next line of code.(ÃÍªàşÿÿÿÿ
+V
+java:S1106}"AMove this left curly brace to the beginning of next line of code.(úÅ×5
+]
+java:S1106Š"AMove this left curly brace to the beginning of next line of code.(­†’©ùÿÿÿÿ
+X
+java:S1106–"AMove this left curly brace to the beginning of next line of code.(©ì×
+]
+java:S1106œ"AMove this left curly brace to the beginning of next line of code.(±¡ˆ«üÿÿÿÿ
+]
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¼«¯˜üÿÿÿÿ
+]
+java:S1106¢"AMove this left curly brace to the beginning of next line of code.(âèªåûÿÿÿÿ

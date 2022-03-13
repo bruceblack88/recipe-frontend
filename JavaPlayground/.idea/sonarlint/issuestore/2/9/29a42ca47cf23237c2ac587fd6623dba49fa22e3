@@ -1,0 +1,26 @@
+
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Çµí‘
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¯Ôñ´
+_
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(•¯ÛØùÿÿÿÿ
+g	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(¯Ôñ´
+g	java:S109"RAssign this magic number 3 to a well-named constant, and use the constant instead.(¯Ôñ´
+g	java:S109"RAssign this magic number 4 to a well-named constant, and use the constant instead.(¯Ôñ´
+g	java:S109"SAssign this magic number 10 to a well-named constant, and use the constant instead.(©ƒÌ5
+E
+java:S6212"/Declare this local variable with "var" instead.(¯Ôñ´
+V	java:S125	"<This block of commented-out lines of code should be removed.(ØÁ‰øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ïµçï
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÒ››
+J
+java:S6212"/Declare this local variable with "var" instead.(ØÕ—©ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•¯ÛØùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì¼Îí
+V
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‰ÿ§<
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ØÕ—©ıÿÿÿÿ

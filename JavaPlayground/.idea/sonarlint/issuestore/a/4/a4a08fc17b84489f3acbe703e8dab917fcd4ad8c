@@ -1,0 +1,15 @@
+
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Çµí‘
+Y
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(•áÚ6
+f	java:S109
+"RAssign this magic number 5 to a well-named constant, and use the constant instead.(šıÇ9
+g	java:S109"RAssign this magic number 3 to a well-named constant, and use the constant instead.(Íü€§
+h	java:S109"SAssign this magic number 25 to a well-named constant, and use the constant instead.(èğÇ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ×€
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì¼Îí
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(…É»ÿÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘

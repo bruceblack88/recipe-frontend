@@ -1,0 +1,33 @@
+
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(£áĞšıÿÿÿÿ
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¸šÊÿÿÿÿÿ
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(…½™“
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(«®“Õ
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ÌÄçº
+Z
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(¬¥öÚ
+m	java:S109"SAssign this magic number 10 to a well-named constant, and use the constant instead.(£áĞšıÿÿÿÿ
+_
+java:S3052"IRemove this initialization to "false", the compiler will do that for you.(ÿò¡
+G
+java:S1144",Remove this unused private "balance" method.(êÄºŠıÿÿÿÿ
+F
+java:S1144"0Remove this unused private "isOverDrawn" method.(êÃÚÖ
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”šÁR8’•Ë»ó/
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Öú“‰
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Œß”‰ùÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(·Ã®çøÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(êÄºŠıÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(êÃÚÖ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÌÄçº

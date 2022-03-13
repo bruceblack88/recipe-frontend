@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../dtd/concept.dtd">
+<!--  
+Licensed to the Apache Software Foundation (ASF) under one or more
+contributor license agreements.  See the NOTICE file distributed with
+this work for additional information regarding copyright ownership.
+The ASF licenses this file to You under the Apache License, Version 2.0
+(the "License"); you may not use this file except in compliance with
+the License.  You may obtain a copy of the License at      
+
+   http://www.apache.org/licenses/LICENSE-2.0  
+
+Unless required by applicable law or agreed to in writing, software  
+distributed under the License is distributed on an "AS IS" BASIS,  
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  
+See the License for the specific language governing permissions and  
+limitations under the License.
+-->
+<concept id="cgswhymodulepath" xml:lang="en-us">
+<title>CLASSPATH vs. MODULEPATH</title>
+<shortdesc><ph conref="../conrefs.dita#prod/productshortname"></ph> software
+can be run with either a CLASSPATH or a MODULEPATH.</shortdesc>
+<conbody>
+<dl><dlentry>
+<dt>With a CLASSPATH</dt>
+<dd><p>The simplest way to run <ph conref="../conrefs.dita#prod/productshortname"></ph>
+is via the CLASSPATH. That is because the CLASSPATH is used by the scripts which
+start <ph conref="../conrefs.dita#prod/productshortname"></ph> configurations
+and by the handy <i>java -jar derbyrun.jar</i> shorthand for booting
+those configurations.</p>
+</dd>
+</dlentry><dlentry>
+<dt>With a MODULEPATH</dt>
+<dd><p>The MODULEPATH should be used if you want the extra security of
+module-level encapsulation which Java 9 introduced. In addition, the MODULEPATH
+should be used to reduce static footprint when assembling shrink-wrapped
+applications via the JDK's <i>jlink</i> tool.</p></dd>
+</dlentry></dl>
+</conbody>
+</concept>

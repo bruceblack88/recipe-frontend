@@ -1,0 +1,15 @@
+
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Çµí‘
+_
+java:S1120
+"DMake this line start after 4 spaces to indent the code consistently.(ÙÖ„œÿÿÿÿÿ
+J
+java:S6212
+"/Declare this local variable with "var" instead.(ÙÖ„œÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Î´îøýÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì¼Îí
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Èƒ”ìþÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘

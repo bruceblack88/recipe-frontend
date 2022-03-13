@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../dtd/concept.dtd">
+<!-- 
+Licensed to the Apache Software Foundation (ASF) under one or more
+contributor license agreements.  See the NOTICE file distributed with
+this work for additional information regarding copyright ownership.
+The ASF licenses this file to You under the Apache License, Version 2.0
+(the "License"); you may not use this file except in compliance with
+the License.  You may obtain a copy of the License at      
+
+   http://www.apache.org/licenses/LICENSE-2.0  
+
+Unless required by applicable law or agreed to in writing, software  
+distributed under the License is distributed on an "AS IS" BASIS,  
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  
+See the License for the specific language governing permissions and  
+limitations under the License.
+-->
+<concept id="csecjavasecurity" xml:lang="en-us">
+<title>Configuring Java security</title>
+<shortdesc>The Java security manager lets you reduce the damage that your
+application can do.</shortdesc>
+<prolog><metadata>
+<keywords></keywords>
+</metadata></prolog>
+<conbody>
+<p>Using a security manager, the System Administrator can restrict how an
+application cooperates with other applications running in the same virtual
+machine (VM) or elsewhere on the same machine. When you run
+<ph conref="../conrefs.dita#prod/productshortname"></ph> under a security
+manager, you can restrict the following:</p>
+<ul>
+<li><b>Backups</b>: You control where the
+<ph conref="../conrefs.dita#prod/productshortname"></ph> engine writes and reads
+database backup files.</li>
+<li><b>Imports and exports</b>: You control where the engine imports data from
+and where it exports data to.</li>
+<li><b>Jar files</b>: You control where the engine obtains jar files of
+customer-coded functions, procedures, types, and aggregates.</li>
+<li><b>Sockets</b>: You control what machines can connect to the server and
+what machines the server can connect to.</li>
+</ul>
+<p>To take advantage of these powerful controls, first customize one of the template
+security policies documented here.
+You can find these template security policies in the
+<ph conref="../conrefs.dita#prod/productshortname"></ph> distribution in the 
+<codeph>demo/templates</codeph> directory.
+Choose the policy which corresponds to the
+<ph conref="../conrefs.dita#prod/productshortname"></ph> configuration which you are running:
+</p>
+
+<ul>
+<li>Customize <xref href="rsecbasicengine.dita"/> if you are embedding
+the <ph conref="../conrefs.dita#prod/productshortname"></ph> engine in your application,
+that is, if you are running the smallest footprint, core Derby configuration.</li>
+<li>Customize <xref href="rsecbasicserver.dita"/> if you are running
+the <ph conref="../conrefs.dita#prod/productshortname"></ph> network server.</li>
+<li>Customize <xref href="rsecbasicclient.dita"/> if your application
+runs on a remote machine and accesses 
+<ph conref="../conrefs.dita#prod/productshortname"></ph> databases across a network.</li>
+<li>Customize <xref href="rsecbasictools.dita"/> if you need to run
+<ph conref="../conrefs.dita#prod/productshortname"></ph> tools locally
+on the same machine as your databases.</li>
+</ul>
+
+<p>To customize these files, make the following edits:</p>
+<ul>
+<li><b>URLs</b>: Replace the <codeph>${derby.install.url}</codeph> variables
+with a URL pointing to the directory that holds the
+<ph conref="../conrefs.dita#prod/productshortname"></ph> jar files. For example:
+<codeblock>file:///Users/me/javadb/lib/</codeblock> Alternatively, you
+can set the <codeph>${derby.install.url}</codeph> system property
+(via a -D flag) when you boot the JVM.</li>
+<li><b>System home</b>: Look for instances of the string
+<codeph>${derby.system.home}</codeph>. Replace them with the name of the
+directory that holds your <codeph>derby.properties</codeph> file. Again, you
+can also set this system property when you boot the JVM.</li>
+<li><b>Tracing</b>: Grant
+<ph conref="../conrefs.dita#prod/productshortname"></ph> the power to manage a
+directory tree that will hold server trace information. Look for the
+<codeph>${derby.drda.traceDirectory}</codeph> variable and replace it with the
+directory where the server should write its diagnostic traces. For more
+information on <ph conref="../conrefs.dita#prod/productshortname"></ph> tracing,
+see "Controlling tracing by using the trace facility" in the
+<ph conref="../conrefs.dita#pub/citadmin"></ph>. Again, you can also set
+this system property when you boot the JVM.</li>
+<li><b>Backups/imports/jars</b>: Look for the commented-out permissions
+related to backup/restore, import/export, and jar file loading.
+If needed, uncomment these permissions, replacing the directory references
+with secure locations in your local file system, preferably locations
+which are owned by the database owner or the user who booted the JVM.</li>
+<li><b>Sysinfo</b>: When customizing the template tools policy,
+you should replace <codeph>&lt;&lt;ALL FILES>></codeph> with the directories which
+hold the jar files which appear on your modulepath or classpath.</li>
+<li><b>Sockets</b>: The template policy file accepts connection requests from
+all hosts. You may want to restrict the template file's
+<codeph>java.net.SocketPermission</codeph> to connections from a particular
+subdomain. For details, see the API documentation for
+<codeph>java.net.SocketPermission</codeph>. In addition, if you are using LDAP
+authentication, then you must grant <codeph>derby.jar</codeph> the privilege to
+connect to the LDAP server.</li>
+</ul>
+<p>This manual does not describe the Java security manager in depth. For more
+information, see <xref format="html"
+href="http://docs.oracle.com/javase/8/docs/technotes/guides/security/"
+scope="external"/>. In particular, you may want to read the
+Security Architecture paper (<xref format="html"
+href="http://docs.oracle.com/javase/8/docs/technotes/guides/security/spec/security-spec.doc.html"
+scope="external"/>)
+and the Default Policy Implementation and Policy File Syntax information
+(<xref format="html"
+href="http://docs.oracle.com/javase/8/docs/technotes/guides/security/PolicyFiles.html"
+scope="external"/>).</p>
+</conbody>
+</concept>

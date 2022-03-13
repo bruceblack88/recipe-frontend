@@ -1,0 +1,175 @@
+
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(à¼•ù
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.( íìÛ
+_
+java:S1120)"DMake this line start after 4 spaces to indent the code consistently.(âÒ»šÿÿÿÿÿ
+`
+java:S1120K"EMake this line start after 10 spaces to indent the code consistently.(·ò²üÿÿÿÿÿ
+[
+java:S1120L"EMake this line start after 12 spaces to indent the code consistently.(ñ×ô‹
+`
+java:S1120S"EMake this line start after 10 spaces to indent the code consistently.(·ò²üÿÿÿÿÿ
+[
+java:S1120T"EMake this line start after 12 spaces to indent the code consistently.(ŞåÿÂ
+`
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¦Ø¸ìşÿÿÿÿ
+Z
+java:S1120†"DMake this line start after 4 spaces to indent the code consistently.(îµï
+[
+java:S1120‡"DMake this line start after 6 spaces to indent the code consistently.(ºÃ–Æ
+`
+java:S1120Œ"DMake this line start after 8 spaces to indent the code consistently.(ëæûÿÿÿÿÿ
+`
+java:S1120›"DMake this line start after 4 spaces to indent the code consistently.(¡»¢üùÿÿÿÿ
+[
+java:S1120œ"DMake this line start after 6 spaces to indent the code consistently.(ØĞâ×
+[
+java:S1120"DMake this line start after 8 spaces to indent the code consistently.(Šˆ²í
+a
+java:S1120"EMake this line start after 10 spaces to indent the code consistently.(õ¥âõıÿÿÿÿ
+`
+java:S1120£"DMake this line start after 6 spaces to indent the code consistently.(åÎÿÇùÿÿÿÿ
+`
+java:S1120¥"DMake this line start after 6 spaces to indent the code consistently.(åÎÿÇùÿÿÿÿ
+`
+java:S1120§"DMake this line start after 6 spaces to indent the code consistently.(åÎÿÇùÿÿÿÿ
+`
+java:S1120©"DMake this line start after 6 spaces to indent the code consistently.(åÎÿÇùÿÿÿÿ
+\
+java:S1120¯"EMake this line start after 10 spaces to indent the code consistently.(“–ış
+[
+java:S1120°"EMake this line start after 12 spaces to indent the code consistently.(Ô°)
+T
+java:S1213¶"8Move this variable to comply with Java Code Conventions.(‚Ô©—şÿÿÿÿ
+O
+java:S1213·"8Move this variable to comply with Java Code Conventions.(ó¿¬œ
+O
+java:S1213¸"8Move this variable to comply with Java Code Conventions.(ÆÓ¨
+N
+java:S1213¹"8Move this variable to comply with Java Code Conventions.(äÙ‘
+T
+java:S1213º"8Move this variable to comply with Java Code Conventions.(¤á×ÿÿÿÿÿ
+T
+java:S1213»"8Move this variable to comply with Java Code Conventions.(–¸äÎûÿÿÿÿ
+T
+java:S1213¼"8Move this variable to comply with Java Code Conventions.(ıÛ§¢ÿÿÿÿÿ
+O
+java:S1213½"8Move this variable to comply with Java Code Conventions.(Ú¹À¤
+n	java:S1096"TAssign this magic number 100 to a well-named constant, and use the constant instead.(äù¥Æùÿÿÿÿ
+n	java:S109:"TAssign this magic number 100 to a well-named constant, and use the constant instead.(äù¥Æùÿÿÿÿ
+h	java:S109C"SAssign this magic number 20 to a well-named constant, and use the constant instead.(ªßêÄ
+g	java:S109D"RAssign this magic number 5 to a well-named constant, and use the constant instead.(Šä™ñ
+i	java:S109_"TAssign this magic number 388 to a well-named constant, and use the constant instead.(øúÎÕ
+m	java:S109k"SAssign this magic number 20 to a well-named constant, and use the constant instead.(’åÓûÿÿÿÿ
+m	java:S109k"SAssign this magic number 20 to a well-named constant, and use the constant instead.(’åÓûÿÿÿÿ
+m	java:S109k"SAssign this magic number 20 to a well-named constant, and use the constant instead.(’åÓûÿÿÿÿ
+i	java:S109u"TAssign this magic number 180 to a well-named constant, and use the constant instead.(§¥³™
+m	java:S109z"SAssign this magic number 23 to a well-named constant, and use the constant instead.(Õ¢¢Ÿÿÿÿÿÿ
+`	java:S103u"KSplit this 128 characters long line (which is greater than 120 authorized).(§¥³™
+a	java:S103€"KSplit this 121 characters long line (which is greater than 120 authorized).(áÜÛ
+a	java:S103„"KSplit this 123 characters long line (which is greater than 120 authorized).(ñíÕ
+f	java:S103£"KSplit this 121 characters long line (which is greater than 120 authorized).(åÎÿÇùÿÿÿÿ
+f	java:S103¥"KSplit this 121 characters long line (which is greater than 120 authorized).(åÎÿÇùÿÿÿÿ
+f	java:S103§"KSplit this 121 characters long line (which is greater than 120 authorized).(åÎÿÇùÿÿÿÿ
+f	java:S103©"KSplit this 121 characters long line (which is greater than 120 authorized).(åÎÿÇùÿÿÿÿ
+O
+java:S1942*"4Replace this fully qualified name with "JOptionPane"(ş…ğ—ÿÿÿÿÿ
+J
+java:S1942¹"4Replace this fully qualified name with "JOptionPane"(äÙ‘
+J
+java:S2039"4Explicitly declare the visibility for "spamPhrases".(à¼•ù
+v
+java:S1450¶"ZRemove the "clearButton" field and declare it as a local variable in the relevant methods.(‚Ô©—şÿÿÿÿ
+y
+java:S1450·"bRemove the "enterTextTitleLabel" field and declare it as a local variable in the relevant methods.(ó¿¬œ
+s
+java:S1450¸"\Remove the "jLayeredPane1" field and declare it as a local variable in the relevant methods.(ÆÓ¨
+q
+java:S1450¹"[Remove the "jOptionPane1" field and declare it as a local variable in the relevant methods.(äÙ‘
+w
+java:S1450º"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ
+u
+java:S1450¼"YRemove the "titleLabel" field and declare it as a local variable in the relevant methods.(ıÛ§¢ÿÿÿÿÿ
+	java:S138'"gThis method has 78 lines, which is greater than the 75 lines authorized. Split it into smaller methods.(ü·úÿÿÿÿ
+9
+java:S1309%"#Suppressing warnings is not allowed(²°Ò¶
+E
+java:S62122"/Declare this local variable with "var" instead.(Ñ½îÌ
+J
+java:S6212X"/Declare this local variable with "var" instead.(Ç½éÿÿÿÿÿ
+A
+java:S1172€"*Remove this unused method parameter "evt".(áÜÛ
+F
+java:S6212‡"/Declare this local variable with "var" instead.(ºÃ–Æ
+F
+java:S6212ˆ"/Declare this local variable with "var" instead.(«™¼
+F
+java:S6212Š"/Declare this local variable with "var" instead.(æÕ¿¼
+F
+java:S1197•"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147¤"ECombine this catch with the one at line 162, which has the same body.(¨¦Š½
+\
+java:S2147¦"ECombine this catch with the one at line 162, which has the same body.(ã€ 
+[
+java:S2147¨"ECombine this catch with the one at line 162, which has the same body.(ñÎ¯%
+I
+java:S1108¢"2Move this "catch" keyword to a new dedicated line.(Ö¨š•
+I
+java:S1108¤"2Move this "catch" keyword to a new dedicated line.(¨¦Š½
+I
+java:S1108¦"2Move this "catch" keyword to a new dedicated line.(ã€ 
+H
+java:S1108¨"2Move this "catch" keyword to a new dedicated line.(ñÎ¯%
+F
+java:S1068¹"0Remove this unused "jOptionPane1" private field.(äÙ‘
+C
+java:S1604J"(Make this anonymous inner class a lambda(„Æ£Ëıÿÿÿÿ
+C
+java:S1604R"(Make this anonymous inner class a lambda(ü¬Óûşÿÿÿÿ
+D
+java:S1604®"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+V
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÅšçS
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(†¦é‚ÿÿÿÿÿ
+\
+java:S1106'"AMove this left curly brace to the beginning of next line of code.(ü·úÿÿÿÿ
+\
+java:S1106J"AMove this left curly brace to the beginning of next line of code.(„Æ£Ëıÿÿÿÿ
+\
+java:S1106K"AMove this left curly brace to the beginning of next line of code.(·ò²üÿÿÿÿÿ
+\
+java:S1106R"AMove this left curly brace to the beginning of next line of code.(ü¬Óûşÿÿÿÿ
+\
+java:S1106S"AMove this left curly brace to the beginning of next line of code.(·ò²üÿÿÿÿÿ
+X
+java:S1106€"AMove this left curly brace to the beginning of next line of code.(áÜÛ
+X
+java:S1106„"AMove this left curly brace to the beginning of next line of code.(ñíÕ
+W
+java:S1106†"AMove this left curly brace to the beginning of next line of code.(îµï
+X
+java:S1106‹"AMove this left curly brace to the beginning of next line of code.(˜¢«©
+]
+java:S1106•"AMove this left curly brace to the beginning of next line of code.(¡şÏÖøÿÿÿÿ
+]
+java:S1106›"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+X
+java:S1106œ"AMove this left curly brace to the beginning of next line of code.(ØĞâ×
+X
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Šˆ²í
+X
+java:S1106¢"AMove this left curly brace to the beginning of next line of code.(Ö¨š•
+X
+java:S1106¤"AMove this left curly brace to the beginning of next line of code.(¨¦Š½
+X
+java:S1106¦"AMove this left curly brace to the beginning of next line of code.(ã€ 
+W
+java:S1106¨"AMove this left curly brace to the beginning of next line of code.(ñÎ¯%
+]
+java:S1106®"AMove this left curly brace to the beginning of next line of code.(¨í¡§úÿÿÿÿ
+X
+java:S1106¯"AMove this left curly brace to the beginning of next line of code.(“–ış

@@ -1,0 +1,16 @@
+
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(¡şÏÖøÿÿÿÿ
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(å¤à´
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øùÌ²üÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(çŸ²
+M	java:S106"9Replace this use of System.out or System.err by a logger.(çŸ²
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(å¤à´
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¨ÜöÄ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¡şÏÖøÿÿÿÿ

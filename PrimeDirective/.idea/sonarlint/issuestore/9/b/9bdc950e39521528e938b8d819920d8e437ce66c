@@ -1,0 +1,84 @@
+
+Z
+java:S1120
+"DMake this line start after 2 spaces to indent the code consistently.(ÞÃìÑ
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(™§öÅ
+Z
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(§¼Éç
+Z
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(§¼Éç
+Y
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(¸®Ã'
+Z
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(Š£†Î
+Y
+java:S1120"DMake this line start after 8 spaces to indent the code consistently.(¸®Ã'
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ž«á¶ÿÿÿÿÿ
+_
+java:S1120""DMake this line start after 6 spaces to indent the code consistently.(†í‚‘ùÿÿÿÿ
+_
+java:S1120#"DMake this line start after 8 spaces to indent the code consistently.(úÎñ§ùÿÿÿÿ
+_
+java:S1120-"DMake this line start after 4 spaces to indent the code consistently.(†‰¼¤ùÿÿÿÿ
+g	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(Ÿö¤ô
+g	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(†üÄ“
+g	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(îÍë˜
+l	java:S109."RAssign this magic number 6 to a well-named constant, and use the constant instead.(  â×ýÿÿÿÿ
+m	java:S109."SAssign this magic number 29 to a well-named constant, and use the constant instead.(  â×ýÿÿÿÿ
+m	java:S109."SAssign this magic number 28 to a well-named constant, and use the constant instead.(  â×ýÿÿÿÿ
+m	java:S109."SAssign this magic number 33 to a well-named constant, and use the constant instead.(  â×ýÿÿÿÿ
+m	java:S109."SAssign this magic number 11 to a well-named constant, and use the constant instead.(  â×ýÿÿÿÿ
+n	java:S109."TAssign this magic number 100 to a well-named constant, and use the constant instead.(  â×ýÿÿÿÿ
+n	java:S109."TAssign this magic number 101 to a well-named constant, and use the constant instead.(  â×ýÿÿÿÿ
+m	java:S109."SAssign this magic number 43 to a well-named constant, and use the constant instead.(  â×ýÿÿÿÿ
+m	java:S109."SAssign this magic number 89 to a well-named constant, and use the constant instead.(  â×ýÿÿÿÿ
+G
+java:S1108"1Move this "else" keyword to a new dedicated line.(å¥ž‡
+P
+java:S2197":The results of this modulus operation may not be positive.(™§öÅ
+`
+java:S1764"JCorrect one of the identical sub-expressions on both sides of operator "%"(™§öÅ
+>	java:S108")Either remove or fill this block of code.(å¥ž‡
+P	java:S126";"if ... else if" constructs should end with "else" clauses.(†üÄ“
+G
+java:S1108"1Move this "else" keyword to a new dedicated line.(†üÄ“
+E
+java:S6212"/Declare this local variable with "var" instead.(îÍë˜
+c
+java:S1142
+"MReduce the number of returns of this method 5, down to the maximum allowed 3.(ÞÃìÑ
+J
+java:S6212-"/Declare this local variable with "var" instead.(†‰¼¤ùÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(žõœ•
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ž«á¶ÿÿÿÿÿ
+…
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(–âŸr
+4	java:S113"'Add a new line at the end of this file.
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(“éÔˆ
+W
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(ÞÃìÑ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(™§öÅ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(å¥ž‡
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ÿö¤ô
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(†üÄ“
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(îÍë˜
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Š£†Î
+V
+java:S1106"AMove this left curly brace to the beginning of next line of code.(–âŸr
+\
+java:S1106!"AMove this left curly brace to the beginning of next line of code.(¬ï¿ˆùÿÿÿÿ
+\
+java:S1106""AMove this left curly brace to the beginning of next line of code.(†í‚‘ùÿÿÿÿ
+W
+java:S1106+"AMove this left curly brace to the beginning of next line of code.(Çµí‘

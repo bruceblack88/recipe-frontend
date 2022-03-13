@@ -1,0 +1,40 @@
+
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Çµí‘
+_
+java:S1120	"DMake this line start after 4 spaces to indent the code consistently.(êÜö–ûÿÿÿÿ
+_
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(éÿ•·úÿÿÿÿ
+g	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(œºù®
+l	java:S109"RAssign this magic number 3 to a well-named constant, and use the constant instead.(ÖÔ¾€ÿÿÿÿÿ
+l	java:S109"RAssign this magic number 4 to a well-named constant, and use the constant instead.(ïôê¯şÿÿÿÿ
+g	java:S109"RAssign this magic number 5 to a well-named constant, and use the constant instead.(Ú—©Ó
+g	java:S109%"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ÿ¦Ûò
+g	java:S109%"RAssign this magic number 3 to a well-named constant, and use the constant instead.(ÿ¦Ûò
+g	java:S109%"RAssign this magic number 4 to a well-named constant, and use the constant instead.(ÿ¦Ûò
+8
+java:S2326"S is not used in the class.(œ‡×8…ìŒ­õ/
+Z
+java:S1854%"DRemove this useless assignment to local variable "integerArrayList".(ÿ¦Ûò
+Y
+java:S1854""CRemove this useless assignment to local variable "fruitsArrayList".(ò•Ôú
+N	java:S106"9Replace this use of System.out or System.err by a logger.(òİ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ö®—Â
+M	java:S106"9Replace this use of System.out or System.err by a logger.(™ö³
+N	java:S106"9Replace this use of System.out or System.err by a logger.(òİ
+E
+java:S6212"/Declare this local variable with "var" instead.(ÈÎªİ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éÿ•·úÿÿÿÿ
+D
+java:S6212 "/Declare this local variable with "var" instead.(–Å“T
+J
+java:S1481""4Remove this unused "fruitsArrayList" local variable.(ò•Ôú
+K
+java:S1481%"5Remove this unused "integerArrayList" local variable.(ÿ¦Ûò
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì¼Îí
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(œ‡×
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÈÎªİ
