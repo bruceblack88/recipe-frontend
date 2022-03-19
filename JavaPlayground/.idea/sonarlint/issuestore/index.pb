@@ -3,8 +3,6 @@
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
 {
 Ksrc/main/java/solutions/adapttech/classes/stateAndBehavior/Application.java,3/5/352d59480995736f55d837595a3a3d9b3add2c8f
-z
-Jsrc/main/java/solutions/adapttech/classes/JavaObjectModel/Application.java,3/9/398fc1d67c0fd6f1fbc8691da97d4fcc6c4aad3d
 u
 Esrc/main/java/solutions/adapttech/classes/InstanceMethods/FooBar.java,5/7/57ad5e7972723ef377aa4d7ea08a1d35f719e439
 q
@@ -23,9 +21,3 @@ s
 Csrc/main/java/solutions/adapttech/classes/ArraysAndLists/Array.java,2/9/29a42ca47cf23237c2ac587fd6623dba49fa22e3
 x
 Hsrc/main/java/solutions/adapttech/classes/ArraysAndLists/ArrayLists.java,f/b/fb06a54783c910ad288dd6ab8c4ca69bdb1da6bd
-y
-Isrc/main/java/solutions/adapttech/classes/ArraysAndLists/Accumulator.java,3/6/36ca7d36b7c370761dfd648c2c53113ba338e071
-‰
-Ysrc/main/java/solutions/adapttech/classes/ArraysAndLists/SolvingAnAccumulatorProblem.java,9/4/9422345186298b981c839ecddea395f9225ddd40
-|
-Lsrc/main/java/solutions/adapttech/classes/stateAndBehavior/BumpsTheRoad.java,6/a/6ae9d1f153966b846bc0e9b307a0d8ea53eaf429
