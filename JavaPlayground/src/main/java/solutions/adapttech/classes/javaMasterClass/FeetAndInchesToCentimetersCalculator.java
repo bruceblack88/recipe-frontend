@@ -16,12 +16,13 @@ public class FeetAndInchesToCentimetersCalculator {
     }
 
     public static double calcFeetAndInchesToCentimeters(double inches) {
-        if (inches < 0 && inches > 12) {
+        if (inches < 0) {
             return -1;
         } else {
-            centimeters = inches * 2.54;
+            double feet = (int) inches / 12;
+            double remainingInches = (int) inches % 12;
             System.out.println(inches + " inches = " + centimeters);
-            return centimeters;
+            return calcFeetAndInchesToCentimeters(feet, remainingInches);
         }
     }
 
