@@ -1,4 +1,4 @@
-package solutions.adapttech.classes.JavaObjectModel;
+package solutions.adapttech.classes.javaMasterClass;
 
 public class EqualSumChecker {
     public static boolean hasEqualSum (int x, int y, int z){

@@ -1,4 +1,4 @@
-package solutions.adapttech.classes.JavaObjectModel;
+package solutions.adapttech.classes.javaMasterClass;
 
 public class DecimalComparator {
     public static boolean areEqualByThreeDecimalPlaces(double x, double y){

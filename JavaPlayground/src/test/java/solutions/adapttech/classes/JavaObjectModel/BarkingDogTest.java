@@ -1,6 +1,7 @@
 package solutions.adapttech.classes.JavaObjectModel;
 
 import org.junit.jupiter.api.Test;
+import solutions.adapttech.classes.javaMasterClass.BarkingDog;
 
 import static org.junit.jupiter.api.Assertions.*;
 
