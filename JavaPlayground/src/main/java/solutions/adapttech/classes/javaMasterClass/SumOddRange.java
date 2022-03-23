@@ -15,7 +15,7 @@ public class SumOddRange {
     public static int sumOdd(int start, int end) {
         int sum = 0;
         ArrayList<Integer> rangeList = new ArrayList<>();
-        if (end <= start || start <= 0 || end <= 0) {
+        if (end < start || start <= 0 || end <= 0) {
             return -1;
         } else {
 
