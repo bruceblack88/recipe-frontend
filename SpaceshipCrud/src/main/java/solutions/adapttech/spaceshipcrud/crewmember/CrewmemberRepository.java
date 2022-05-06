@@ -1,2 +1,6 @@
-package solutions.adapttech.spaceshipcrud.crewmember;public class CrewmemberRepository {
+package solutions.adapttech.spaceshipcrud.crewmember;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface CrewmemberRepository extends CrudRepository<Crewmember, Long> {
 }

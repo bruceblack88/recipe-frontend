@@ -22,4 +22,5 @@ public class AreaCalculator {
             area = x * y;
             return area;
     }
+
 }

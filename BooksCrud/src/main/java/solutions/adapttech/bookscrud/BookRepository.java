@@ -1,2 +1,6 @@
-package solutions.adapttech.bookscrud;public interface BookRepository {
+package solutions.adapttech.bookscrud;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface BookRepository extends CrudRepository<Book, Long> {
 }

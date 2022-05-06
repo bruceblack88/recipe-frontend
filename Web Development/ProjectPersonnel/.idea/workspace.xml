@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="deecf8e4-2b1c-4078-9c4c-de6bf80bab44" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../FirstWebSite/.idea/FirstWebSite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML - Personal Site/.idea/HTML - Personal Site.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectPersonnel/.idea/ProjectPersonnel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RecipeBackend/src/main/java/solutions/adapttech/recipebackend/Recipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RecipeBackend/src/main/java/solutions/adapttech/recipebackend/RecipeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RecipeBackend/src/main/java/solutions/adapttech/recipebackend/RecipeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RecipeBackend/src/test/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AFC-react-practice-todo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-spell/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../to-do-app/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../keeper-app-part-1-starting-forked/.idea/keeper-app-part-1-starting-forked.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ravenous-part-one-solution/.idea/ravenous-part-one-solution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recipe-frontend/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recipe-frontend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recipe-frontend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recipe-frontend/.idea/recipe-frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recipe-frontend/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recipe-frontend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recipe-frontend/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recipe-frontend/src/components/Recipes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BooksCrud/src/main/java/solutions/adapttech/bookscrud/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../BooksCrud/src/main/java/solutions/adapttech/bookscrud/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BooksCrud/src/main/java/solutions/adapttech/bookscrud/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../BooksCrud/src/main/java/solutions/adapttech/bookscrud/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BooksCrud/src/main/java/solutions/adapttech/bookscrud/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../BooksCrud/src/main/java/solutions/adapttech/bookscrud/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BooksCrud/src/test/java/solutions/adapttech/bookscrud/BookControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../BooksCrud/src/test/java/solutions/adapttech/bookscrud/BookControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BooksCrud/src/test/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../BooksCrud/src/test/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CrudAPICheckpoint/src/main/java/com/galvanize/crudapicheckpoint/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CrudAPICheckpoint/src/main/java/com/galvanize/crudapicheckpoint/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CrudAPICheckpoint/src/main/java/com/galvanize/crudapicheckpoint/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CrudAPICheckpoint/src/main/java/com/galvanize/crudapicheckpoint/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CrudAPICheckpoint/src/main/java/com/galvanize/crudapicheckpoint/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CrudAPICheckpoint/src/main/java/com/galvanize/crudapicheckpoint/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CrudAPICheckpoint/src/test/java/com/galvanize/crudapicheckpoint/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CrudAPICheckpoint/src/test/java/com/galvanize/crudapicheckpoint/UserControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CrudAPICheckpoint/src/test/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../CrudAPICheckpoint/src/test/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DonutAssessment/src/main/java/com/example/donutassessment/Donut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DonutAssessment/src/main/java/com/example/donutassessment/Donut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DonutAssessment/src/main/java/com/example/donutassessment/DonutController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DonutAssessment/src/main/java/com/example/donutassessment/DonutController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DonutAssessment/src/main/java/com/example/donutassessment/DonutRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DonutAssessment/src/main/java/com/example/donutassessment/DonutRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DonutAssessment/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../DonutAssessment/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DonutAssessment/src/test/java/com/example/donutassessment/DonutControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DonutAssessment/src/test/java/com/example/donutassessment/DonutControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DonutAssessment/src/test/java/com/example/donutassessment/DonutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DonutAssessment/src/test/java/com/example/donutassessment/DonutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DonutAssessment/src/test/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../DonutAssessment/src/test/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JSPractice/.idea/getNthElement.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSPractice/jsArrayPractice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaPlayground/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaPlayground/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaPlayground/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaPlayground/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaPlayground/src/main/java/solutions/adapttech/classes/javaMasterClass/AreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaPlayground/src/main/java/solutions/adapttech/classes/javaMasterClass/AreaCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaPlayground/src/main/java/solutions/adapttech/classes/javaMasterClass/EvenDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaPlayground/src/main/java/solutions/adapttech/classes/javaMasterClass/EvenDigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaPlayground/src/main/java/solutions/adapttech/classes/javaMasterClass/FirstLastDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaPlayground/src/main/java/solutions/adapttech/classes/javaMasterClass/FirstLastDigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PersonnelTracker/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PersonnelTracker/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PersonnelTracker/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PersonnelTracker/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PersonnelTracker/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PersonnelTracker/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PersonnelTracker/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PersonnelTracker/src/main/java/solutions/adapttech/personneltracker/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PersonnelTracker/src/main/java/solutions/adapttech/personneltracker/PersonController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PersonnelTracker/src/main/java/solutions/adapttech/personneltracker/PersonRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PersonnelTracker/src/main/java/solutions/adapttech/personneltracker/PersonnelTrackerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PersonnelTracker/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PersonnelTracker/src/test/java/solutions/adapttech/personneltracker/PersonnelTrackerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PersonnelTracker/src/test/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RecipeCrud/src/main/java/solutions/adapttech/recipecrud/Recipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../RecipeCrud/src/main/java/solutions/adapttech/recipecrud/Recipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RecipeCrud/src/main/java/solutions/adapttech/recipecrud/RecipeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../RecipeCrud/src/main/java/solutions/adapttech/recipecrud/RecipeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RecipeCrud/src/main/java/solutions/adapttech/recipecrud/RecipeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../RecipeCrud/src/main/java/solutions/adapttech/recipecrud/RecipeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RecipeCrud/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../RecipeCrud/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RecipeCrud/src/test/java/solutions/adapttech/recipecrud/RecipeControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../RecipeCrud/src/test/java/solutions/adapttech/recipecrud/RecipeControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpaceshipCrud/src/main/java/solutions/adapttech/spaceshipcrud/crewmember/Crewmember.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpaceshipCrud/src/main/java/solutions/adapttech/spaceshipcrud/crewmember/Crewmember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpaceshipCrud/src/main/java/solutions/adapttech/spaceshipcrud/crewmember/CrewmemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpaceshipCrud/src/main/java/solutions/adapttech/spaceshipcrud/crewmember/CrewmemberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpaceshipCrud/src/main/java/solutions/adapttech/spaceshipcrud/crewmember/CrewmemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpaceshipCrud/src/main/java/solutions/adapttech/spaceshipcrud/crewmember/CrewmemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpaceshipCrud/src/main/java/solutions/adapttech/spaceshipcrud/spaceship/Spaceship.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpaceshipCrud/src/main/java/solutions/adapttech/spaceshipcrud/spaceship/Spaceship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpaceshipCrud/src/main/java/solutions/adapttech/spaceshipcrud/spaceship/SpaceshipController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpaceshipCrud/src/main/java/solutions/adapttech/spaceshipcrud/spaceship/SpaceshipController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpaceshipCrud/src/main/java/solutions/adapttech/spaceshipcrud/spaceship/SpaceshipRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpaceshipCrud/src/main/java/solutions/adapttech/spaceshipcrud/spaceship/SpaceshipRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpaceshipCrud/src/test/java/solutions/adapttech/spaceshipcrud/crewmember/CrewmemberControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpaceshipCrud/src/test/java/solutions/adapttech/spaceshipcrud/crewmember/CrewmemberControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpaceshipCrud/src/test/java/solutions/adapttech/spaceshipcrud/spaceship/SpaceshipControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpaceshipCrud/src/test/java/solutions/adapttech/spaceshipcrud/spaceship/SpaceshipControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ToDoCrud/src/main/java/solutions/adapttech/todocrud/ToDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ToDoCrud/src/main/java/solutions/adapttech/todocrud/ToDo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ToDoCrud/src/main/java/solutions/adapttech/todocrud/ToDoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ToDoCrud/src/main/java/solutions/adapttech/todocrud/ToDoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ToDoCrud/src/main/java/solutions/adapttech/todocrud/ToDoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ToDoCrud/src/main/java/solutions/adapttech/todocrud/ToDoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ToDoCrud/src/test/java/solutions/adapttech/todocrud/ToDoControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ToDoCrud/src/test/java/solutions/adapttech/todocrud/ToDoControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ToDoCrud/src/test/java/solutions/adapttech/todocrud/ToDoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ToDoCrud/src/test/java/solutions/adapttech/todocrud/ToDoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ToDoCrud/src/test/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../ToDoCrud/src/test/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-classes-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-classes-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/assess-project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/assess-project.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/assessment/java/com/example/ActivitiesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/assessment/resources/request1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/assessment/resources/request2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/src/main/java/com/example/Activities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/src/main/java/com/example/ActivitiesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/src/main/java/com/example/ActivitiesService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/src/main/java/com/example/Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/src/main/java/com/example/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/src/main/java/com/example/Email.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/src/main/java/com/example/Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/src/main/java/com/example/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/src/main/java/com/example/Views.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/src/main/resources/activities.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/src/test/java/com/example/ActivitiesControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/src/test/java/com/example/ConversionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/src/test/resources/request.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-json-endpoints-checkpoint-afcsdi/test.sh" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28nLMbUPIscYj8r254tEBcu3s78" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="sql.code.style.group" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="deecf8e4-2b1c-4078-9c4c-de6bf80bab44" name="Changes" comment="" />
+      <created>1651847356694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651847356694</updated>
+      <workItem from="1651847358242" duration="2338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
